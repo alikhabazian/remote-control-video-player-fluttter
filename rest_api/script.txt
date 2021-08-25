@@ -1,0 +1,4 @@
+@echo off
+
+cd E:\virual env\env\myenv\Scripts\activate
+echo done
